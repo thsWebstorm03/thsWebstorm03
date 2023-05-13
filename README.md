@@ -12,7 +12,7 @@
 I am a full-stack developer with a broad and versatile coding skill set. I quickly helps startups and enterprises with prototypes and ideas by efficiently building those things into reality. My expertise lies in building MVPs, apps, enterprise software, scalable microservices, web crawlers, REST and Socket APIs, infrastructure modeling, AWS, and deployments. I am the go-to guy for any of your development needs.
 </p>
 <p align="center">
-  <a href="https://github.com/Kilros0817"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Web3%20Engineer;5+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/Kilros0817"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <img align="right" src="https://img.shields.io/github/followers/alexandera73?label=Follow&style=social" />
