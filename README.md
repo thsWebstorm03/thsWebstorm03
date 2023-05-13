@@ -57,7 +57,7 @@ I am a full-stack developer with a broad and versatile coding skill set. I quick
 
 <img align="right" alt="GIF" src="images.jfif" width="400" />
  
-### Frontend & Backend
+### Frontend & Backend Development
 <br />
 
 ### Chatbot Development
